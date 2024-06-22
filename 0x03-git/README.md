@@ -1,1 +1,1 @@
-First day at alx
+Updated readme
